@@ -1,16 +1,18 @@
-# meus_momentos_divertidos
+# Desafio da DIO - Lista de Contatos com Fotos
 
-Foi Divertido
+Projeto Flutter para Android e ios 
 
-## Getting Started
+O Aplicativo tem a funcionalidade de cadastrar contatos com foto e salvar a foto no telefone na pasta de aplicação, e salvar os dados do
+contato e o path da foto em uma api do Back4App e Listar os contatos na tela inicial com foto
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Pacotes e Serviços Utilizados
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   - [image_picker](https://pub.dev/packages/image_picker)
+   - [fltuter_dotenv](https://pub.dev/packages/flutter_dotenv)
+   - [dio](https://pub.dev/packages/dio)
+   - [Back4App](https://www.back4app.com/)
+   - [Flutter 3.16.8](https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.16.8-stable.zip)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+   Funções: Listar,Novo,Editar,Excluir
